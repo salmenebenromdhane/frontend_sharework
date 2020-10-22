@@ -1,0 +1,19 @@
+td,
+th {
+	border: 1px solid rgb(190, 190, 190);
+	padding: 10px;
+}
+
+td {
+	text-align: center;
+}
+
+th[scope="row"] {
+	background-color: #d7d9f2;
+}
+
+table {
+	margin: 0 auto;
+	width: 50%;
+	height: 100;
+}
